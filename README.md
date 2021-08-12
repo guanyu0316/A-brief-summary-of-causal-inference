@@ -11,4 +11,6 @@
 - 确定型（Sharp RDD）实线
 
 - 模糊型（Fuzzy RDD）虚线
-![RDD1](C:/Users/41558/Desktop/因果推断/RDD1.png)
+
+
+![RDD1](https://github.com/guanyu0316/all-images/blob/main/Sharp%20RDD&Fuzzy%20RDD.png?raw=true)
